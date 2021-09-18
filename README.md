@@ -10,4 +10,10 @@ A simple template for playing around Vite + Vue3. Much faster than the Vue-Cli!
 
 `npm install`
 
+`npm install vue-router@next`
+
+`npm install vuex@next`
+
+`npm install axios`
+
 `npm run dev`
